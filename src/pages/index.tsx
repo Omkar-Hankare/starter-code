@@ -4,13 +4,13 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Trading Journal</title>
-        <meta name="Trading Journal" content="" />
+        <title>Sample Title</title>
+        <meta name="Sample Title" content="" />
         <link rel="icon" href="" />
       </Head>
 
-      <main>main</main>
-
+      <main>This is the homepage. </main>
+      {/* Check next.config.js for redirects */}
       <footer>Footer</footer>
     </div>
   );
